@@ -1,0 +1,19 @@
+{
+  "jshint_options": {
+    "undef": true,
+    "unused": true,
+    "strict": true,
+    "bitwise": true,
+    "curly": true,
+    "latedef": true,
+    "quotmark": "single",
+    "jquery": true,
+    "eqeqeq": true,
+    "evil": true,
+    "regexdash": true,
+    "browser": true,
+    "wsh": true,
+    "trailing": true,
+    "sub": true
+  }
+}
