@@ -13,8 +13,8 @@ SublimeConfig
 
 This repository is here because I like to keep my version of these configuration files and other settings handy, especially when installing SublimeText from scratch on different environments. So, they're mainly for my own convenience, but if you find anything in here useful, by all means take it.
 
-In the `Common` folder you will find the user settings for the plugins lited above. For HTML/CSS/JS you will also find the Plugin Options.
+In the `Common` folder you will find the user settings for the plugins listed above. For HTML/CSS/JS Prettify in particular, you will also find the Plugin Options.
 
-In the `OSX` and `Windows` folders you will find the User Key Bindings file for each of these operating systems.
+In the `OSX` and `Windows` folders you will find the User Key Bindings file for each OS.
 
-####This README will soon be updated to SublimeText3 now that SublimeLinter3 has been released
+#####This README will soon be updated to SublimeText3 now that SublimeLinter3 has been released!
