@@ -1,22 +1,18 @@
 SublimeConfig
 =============
 
-Here you will find the contents of my SublimeText3 configuration files for:
+### Getting Started with Sublime
 
-- User Settings
-- Pretty JSON Package
-- HTML/CSS/JS Prettify Package
-- SublimeLinter
-
-These files are here because I like to keep them handy, especially when installing SublimeText from scratch, which I've done more times than I ever thought I would. So, they're mainly for my own convenience, but if you find anything in here useful, by all means take it.
-
-______
-
-Setup:
-
+- Dowload SublimeText from http://www.sublimetext.com/
 - Install Package Control: https://sublime.wbond.net/installation
-- Once Package Control is installed, do ctrl-shift-p, Install Package to install:
+- Once Package Control is installed, open SublimeText do Ctrl-Shift-P. Type Install Package to search for:
   - HTML/CSS/JS Prettify
   - Sublime Linter
   - Pretty JSON
-- Go to Preferences > Package Settings and edit the "Settings - User" file for each of the packages with your own configuration (use the files provided in this repository if we're working on a project together :))
+- After installing these plugins, go to Preferences > Package Settings > [plugin name] > "Settings - User". This will open your user settings file for each of the plugins. In here you can specify their behavior to your convenience.
+
+This repository is here because I like to keep my version of these configuration files and other settings handy, especially when installing SublimeText from scratch on different environments. So, they're mainly for my own convenience, but if you find anything in here useful, by all means take it.
+
+In the `Common` folder you will find the user settings for the plugins lited above. For HTML/CSS/JS you will also find the Plugin Options.
+
+In the `OSX` and `Windows` folders you will find the User Key Bindings file for each of these operating systems.
