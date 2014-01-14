@@ -3,7 +3,7 @@ SublimeConfig
 
 ### Getting Started with Sublime
 
-- Dowload SublimeText from http://www.sublimetext.com/
+- Dowload SublimeText2 from http://www.sublimetext.com/
 - Install Package Control: https://sublime.wbond.net/installation
 - Once Package Control is installed, open SublimeText do Ctrl-Shift-P. Type Install Package to search for:
   - HTML/CSS/JS Prettify
@@ -16,3 +16,5 @@ This repository is here because I like to keep my version of these configuration
 In the `Common` folder you will find the user settings for the plugins lited above. For HTML/CSS/JS you will also find the Plugin Options.
 
 In the `OSX` and `Windows` folders you will find the User Key Bindings file for each of these operating systems.
+
+####This README will soon be updated to SublimeText3 now that SublimeLinter3 has been released
