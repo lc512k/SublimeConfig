@@ -6,4 +6,16 @@
     "operator": "equal",
     "operand": "source.js,source.json"
   }]
+}, {
+  "keys": ["ctrl+ç"],
+  "command": "toggle_comment",
+  "args": {
+    "block": false
+  }
+}, {
+  "keys": ["ctrl+shift+ç"],
+  "command": "toggle_comment",
+  "args": {
+    "block": true
+  }
 }]
